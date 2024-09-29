@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>Subject_Registration_Group</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    
+    
+    <welcome-file>Home.jsp</welcome-file>
+    
+    <welcome-file>CourseWareHome.jsp</welcome-file>
+
+    <welcome-file>std_login.jsp</welcome-file>
+    <welcome-file>std_registration.jsp</welcome-file>
+    
+    <welcome-file>stud_dashboard</welcome-file>
+    <welcome-file>New.jsp</welcome-file>
+    <welcome-file>Select_course.jsp</welcome-file>
+    <welcome-file>About.jsp</welcome-file>
+    <welcome-file>Add_course_table.jsp</welcome-file>
+    <welcome-file>AddCourse.jsp</welcome-file>
+    <welcome-file>Admin_dashboard.jsp</welcome-file>
+    <welcome-file>Contact.jsp</welcome-file>
+    <welcome-file>AdminLogin.jsp</welcome-file>
+    <welcome-file>CourseSuccess.jsp</welcome-file>
+    <welcome-file>feedback.jsp</welcome-file>
+    <welcome-file>FirstSem.jsp</welcome-file>
+    <welcome-file>FourthSem_ar_vr.jsp</welcome-file>
+    <welcome-file>FourthSem_cloud.jsp</welcome-file>
+    <welcome-file>FourthSem_ml.jsp</welcome-file>
+    <welcome-file>FourthSem_st.jsp</welcome-file>
+    <welcome-file>Home.jsp</welcome-file>
+    <welcome-file>Registered_student_list.jsp</welcome-file>
+    <welcome-file>Registered_subject.jsp</welcome-file>
+    <welcome-file>SecondSem.jsp</welcome-file>
+    <welcome-file>ThirdSem_ar_vr.jsp</welcome-file>
+    <welcome-file>ThirdSem_cloud.jsp</welcome-file>
+    <welcome-file>ThirdSem_st.jsp</welcome-file>
+    <welcome-file>ThirdSem_ml.jsp</welcome-file>
+    <welcome-file>ViewCourse.jsp</welcome-file>
+    <welcome-file>ViewCourseTable.jsp</welcome-file>
+    <welcome-file>ViewSem1.jsp</welcome-file>
+    <welcome-file>ViewSem2.jsp</welcome-file>
+    <welcome-file>ViewSem3_ML.jsp</welcome-file>
+    <welcome-file>ViewSem3(AR_VR).jsp</welcome-file>
+    <welcome-file>ViewSem3(Cloud).jsp</welcome-file>
+    <welcome-file>ViewSem3(ST).jsp</welcome-file>
+    <welcome-file>ViewSem4(AR_VR).jsp</welcome-file>
+    <welcome-file>ViewSem4(ML).jsp</welcome-file>
+    <welcome-file>ViewSem4(ST).jsp</welcome-file>
+    <welcome-file>ViewSem4(Cloud).jsp</welcome-file>
+    
+    
+  </welcome-file-list>
+</web-app>
