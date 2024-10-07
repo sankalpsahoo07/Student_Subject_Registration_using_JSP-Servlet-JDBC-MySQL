@@ -14,7 +14,7 @@ public class LoginDao {
 	public static Connection getConnection() throws ClassNotFoundException,SQLException
 	{
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		return DriverManager.getConnection("jdbc:mysql://localhost:3306/Subject_Registration","root","Sankalpmysql@07");
+		return DriverManager.getConnection("jdbc:mysql://localhost:3306/Student_Subject_Registration","root","Sankalpmysql@07");
 	}
 	public Regd_Login checkLogin(String regd_no, String password) throws SQLException
 	{

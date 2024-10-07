@@ -14,7 +14,7 @@ public class sem_4AvDao {
 
 	public static Connection getConnection() throws ClassNotFoundException, SQLException {
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		return DriverManager.getConnection("jdbc:mysql://localhost:3306/online_examination_system","root","root");
+		return DriverManager.getConnection("jdbc:mysql://localhost:3306/Student_Subject_Registration","root","Sankalpmysql@07");
 	}
 	public List<sem_4Av> getData() {
 		List<sem_4Av>list=null;

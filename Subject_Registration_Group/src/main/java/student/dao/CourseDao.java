@@ -14,7 +14,7 @@ public class CourseDao {
 	public static Connection getConnection() throws SQLException, ClassNotFoundException 
 	{
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		return DriverManager.getConnection("jdbc:mysql://localhost:3306/online_examination_system","root","root");
+		return DriverManager.getConnection("jdbc:mysql://localhost:3306/Student_Subject_Registration","root","Sankalpmysql@07");
 	}
 
 	public List<Student_Sub_Regd> Sem1() {

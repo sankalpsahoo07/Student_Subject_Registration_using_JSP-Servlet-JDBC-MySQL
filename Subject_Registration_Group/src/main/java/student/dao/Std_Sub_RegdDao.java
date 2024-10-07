@@ -12,7 +12,7 @@ import student.model.Student_Sub_Regd;
 public class Std_Sub_RegdDao {
 	public static Connection getConnection() throws ClassNotFoundException, SQLException {
 		Class.forName("com.mysql.cj.jdbc.Driver");
-		return DriverManager.getConnection("jdbc:mysql://localhost:3306/online_examination_system","root","root");	
+		return DriverManager.getConnection("jdbc:mysql://localhost:3306/Student_Subject_Registration","root","Sankalpmysql@07");	
 	}
 	public boolean SubRegd(String regd_no , String std_name , String semester , String academic_year) throws SQLException, ClassNotFoundException
 	{
