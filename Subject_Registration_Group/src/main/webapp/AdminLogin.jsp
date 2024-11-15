@@ -53,7 +53,6 @@
     </div>
 </form>
 
-<%-- Display error message if present --%>
 <c:if test="${not empty ErrorMessage}">
     <p style="color: red;">${ErrorMessage}</p>
 </c:if>
