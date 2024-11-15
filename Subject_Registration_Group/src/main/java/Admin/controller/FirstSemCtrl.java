@@ -15,7 +15,7 @@ import Admin.model.AddCourseModel;
 
 
 @WebServlet("/FirstSemCtrl")
-public class FirstSemCtrl extends HttpServlet {
+public class FirstSemCtrl extends HttpServlet 
 	private static final long serialVersionUID = 1L;
        
     
