@@ -14,7 +14,7 @@ import Admin.dao.FourthSemSTDao;
 import Admin.model.AddCourseModel;
 
 
-@WebServlet("/FourthSem_StCtrl")
+@WebServlet("/FourthSem_StCtrl"
 public class FourthSem_StCtrl extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
